@@ -23,7 +23,7 @@
                 <div class="modulo verde">
                     <h3>Modulo 01 - Basico</h3>
                         <ul>
-                            <li><a href="#">Exercicio A</a></li>
+                            <li><a href="exercicio.php">Exercicio A</a></li>
                             <li><a href="#">Exercicio B</a></li>
                             <li><a href="#">Exercicio C</a></li>
                         </ul>
