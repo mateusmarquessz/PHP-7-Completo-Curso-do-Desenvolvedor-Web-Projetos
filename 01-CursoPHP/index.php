@@ -14,7 +14,8 @@
 <body>
     <header class="cabecalho">
     <h1>Curso PHP</h1>
-    <h2>Indice dos Exercicios</h2>
+    <h2>Indice dos Exercicios</h2>  
+    
 </header>
     <!-- classe.algo faz automatico, exemplo : main.principal, ele cria o valor a baixo -->
     <main class="principal">
@@ -26,8 +27,10 @@
                             <li>
                                 <a href="exercicio.php?dir=basico&file=ola">Ola PHP</a>
                             </li>
-                            <li><a href="#">Exercicio B</a></li>
-                            <li><a href="#">Exercicio C</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=html">Integracao HTML com PHP</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=css">Integracao CSS com PHP</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=comentarios">Comentarios PHP</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=desafio">Desafio PHP</a></li>
                         </ul>
                 </div>
                 <div class="modulo vermelho">
