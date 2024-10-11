@@ -63,13 +63,18 @@
                         <ul>
                         <li><a href="exercicio.php?dir=controle&file=if & else">if & else</a></li>
                         <li><a href="exercicio.php?dir=controle&file=operadoresRelacionais">Operadores Relacionais</a></li>
-                            <li><a href="#">Exercicio C</a></li>
-                                </ul>
+                        <li><a href="exercicio.php?dir=controle&file=desafiopi">Desafio Pi</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operadoreslogicos">Operadores Logicos</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafiooperadoreslogicos">Desafio Operadores Logicos</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operadorTernario">Operador Ternario</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=switch">Switch Case</a></li>   
+                        <li><a href="exercicio.php?dir=controle&file=desafioswitchcase">Desafio Switch Case</a></li>
+                        </ul>
                         </div>   
                 <div class="modulo laranja">
-                    <h3>Modulo 05</h3>
+                    <h3>Modulo 05 - Arrays</h3>
                         <ul>
-                            <li><a href="#">Exercicio A</a></li>
+                        <li><a href="exercicio.php?dir=arrays&file=basico">Basico Sobre Arrays</a></li>
                             <li><a href="#">Exercicio B</a></li>
                             <li><a href="#">Exercicio C</a></li>
                                 </ul>
