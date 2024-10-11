@@ -34,26 +34,35 @@
                         </ul>
                 </div>
                 <div class="modulo vermelho">
-                    <h3>Modulo 02</h3>
+                    <h3>Modulo 02 - Tipos</h3>
                         <ul>
-                            <li><a href="#">Exercicio A</a></li>
-                            <li><a href="#">Exercicio B</a></li>
-                            <li><a href="#">Exercicio C</a></li>
+                            <li><a href="exercicio.php?dir=Tipos&file=int">Tipo Inteiro</a></li>
+                            <li><a href="exercicio.php?dir=Tipos&file=float">Tipo Float</a></li>
+                            <li><a href="exercicio.php?dir=Tipos&file=aritmeticas">Operacoes Aritmeticas</a></li>
+                            <li><a href="exercicio.php?dir=Tipos&file=string">Tipos String</a></li>
+                            <li><a href="exercicio.php?dir=Tipos&file=bolean">Tipos Boleano</a></li>
+                            <li><a href="exercicio.php?dir=Tipos&file=conversoes">Conversoes</a></li>
+                            <li><a href="exercicio.php?dir=Tipos&file=desafioprecedencia">Desafio Precedencia</a></li>
+                            <li><a href="exercicio.php?dir=Tipos&file=desafiostring">Desafio String</a></li>
                         </ul>
                         </div>
                 <div class="modulo azul">
-                    <h3>Modulo 03</h3>
+                    <h3>Modulo 03 - Variaveis</h3>
                         <ul>
-                            <li><a href="#">Exercicio A</a></li>
-                            <li><a href="#">Exercicio B</a></li>
-                            <li><a href="#">Exercicio C</a></li>
-                                </ul>
+                        <li><a href="exercicio.php?dir=Variaveis&file=variaveis">Variaveis</a></li>
+                            <li><a href="exercicio.php?dir=Variaveis&file=desafiovariaveis">Desafio Variaveis</a></li>
+                            <li><a href="exercicio.php?dir=Variaveis&file=atribuicoes">Atribuicoes</a></li>
+                            <li><a href="exercicio.php?dir=Variaveis&file=interpolacao">InterPolacao</a></li>
+                            <li><a href="exercicio.php?dir=Variaveis&file=variaveisvariaveis">Variaveis Variaveis</a></li>
+                            <li><a href="exercicio.php?dir=Variaveis&file=valorporreferencia">Valor por Referencia</a></li>
+                            <li><a href="exercicio.php?dir=Variaveis&file=constante">Constante</a></li>
+                            </ul>
                         </div>
                 <div class="modulo roxo">
-                    <h3>Modulo 04</h3>
+                    <h3>Modulo 04 - Estruturas de Controles #1</h3>
                         <ul>
-                            <li><a href="#">Exercicio A</a></li>
-                            <li><a href="#">Exercicio B</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=if & else">if & else</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operadoresRelacionais">Operadores Relacionais</a></li>
                             <li><a href="#">Exercicio C</a></li>
                                 </ul>
                         </div>   
