@@ -75,17 +75,62 @@
                     <h3>Modulo 05 - Arrays</h3>
                         <ul>
                         <li><a href="exercicio.php?dir=arrays&file=basico">Basico Sobre Arrays</a></li>
-                            <li><a href="#">Exercicio B</a></li>
-                            <li><a href="#">Exercicio C</a></li>
+                        <li><a href="exercicio.php?dir=arrays&file=mapa">Array com Mapas</a></li>
+                        <li><a href="exercicio.php?dir=arrays&file=desafio_index">Desafio Indice</a></li>
+                        <li><a href="exercicio.php?dir=arrays&file=desafio_meses">Desafio Meses</a></li>
+                        <li><a href="exercicio.php?dir=arrays&file=operacoes">Operacoes com array</a></li>
+                        <li><a href="exercicio.php?dir=arrays&file=desafio_sorteio">Desafio Sorteio</a></li>
+                        <li><a href="exercicio.php?dir=arrays&file=multi">Arrays Multidimensionais</a></li>
+                        <li><a href="exercicio.php?dir=arrays&file=constantes">Arrays Constantes</a></li>
+                        <li><a href="exercicio.php?dir=arrays&file=get">Arrays Get</a></li>
+                        <li><a href="exercicio.php?dir=arrays&file=post">Arrays Post</a></li>
+                        <li><a href="exercicio.php?dir=arrays&file=comparacao">Comparacao de Arrays</a></li>
                                 </ul>
                          </div>
                 <div class="modulo verde-escuro">
-                    <h3>Modulo 06</h3>
-                        <ul>
-                            <li><a href="#">Exercicio A</a></li>
-                            <li><a href="#">Exercicio B</a></li>
-                            <li><a href="#">Exercicio C</a></li>
-                                 </ul>
+                    <h3>Modulo 06 - Repeticoes</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=for">
+                                Laço For
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=desafio_for">
+                                Desafio For
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=foreach">
+                                Foreach
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=break_continue">
+                                Break/Continue
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=desafio_impressao">
+                                Desafio Impressão
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=while">
+                                While/Do While
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=desafio_tabela">
+                                Desafio Tabela #01
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=repeticoes&file=desafio_tabela_2">
+                                Desafio Tabela #02
+                            </a>
+                        </li>
+                    </ul>
                          </div>
                 <div class="modulo vermelho-escuro">
                     <h3>Modulo 07</h3>
